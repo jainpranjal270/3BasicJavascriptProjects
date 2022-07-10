@@ -10,6 +10,21 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: #76BA99;
+}
+
+.name_of_bandar {
+    font-size: 275%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1A4D2E;
+    background-color: #ADCF9F;
+    user-select: none;
+    border: 1rem;
+    padding: 5rem;
+    border-color: #1A4D2E;
+    border-style: double;
+    display: flex;
+    flex-direction: column;
 }
 
 .emoji {
